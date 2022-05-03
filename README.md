@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yvens Belo</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 💬 Ask me about **React, Vue, Express, Django, Ruby on Rails, Ethereum, Smart Contract, Solidity, Hardhat, Truffle**
+- 💬 Ask me about **React, Vue, Express, Django, Ruby on Rails, AWS, MongoDB, Firebase, Git, Ethereum, Smart Contract, Solidity, Hardhat**
 
 - 📫 How to reach me **beloyvens@gmail.com**
 
